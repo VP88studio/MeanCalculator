@@ -1,0 +1,15 @@
+/home/jimmithy/Code/MeanCalculator/obj/Debug/net10.0/MeanCalculator.GeneratedMSBuildEditorConfig.editorconfig
+/home/jimmithy/Code/MeanCalculator/obj/Debug/net10.0/MeanCalculator.AssemblyInfoInputs.cache
+/home/jimmithy/Code/MeanCalculator/obj/Debug/net10.0/MeanCalculator.AssemblyInfo.cs
+/home/jimmithy/Code/MeanCalculator/obj/Debug/net10.0/MeanCalculator.csproj.CoreCompileInputs.cache
+/home/jimmithy/Code/MeanCalculator/obj/Debug/net10.0/MeanCalculator.sourcelink.json
+/home/jimmithy/Code/MeanCalculator/bin/Debug/net10.0/MeanCalculator
+/home/jimmithy/Code/MeanCalculator/bin/Debug/net10.0/MeanCalculator.deps.json
+/home/jimmithy/Code/MeanCalculator/bin/Debug/net10.0/MeanCalculator.runtimeconfig.json
+/home/jimmithy/Code/MeanCalculator/bin/Debug/net10.0/MeanCalculator.dll
+/home/jimmithy/Code/MeanCalculator/bin/Debug/net10.0/MeanCalculator.pdb
+/home/jimmithy/Code/MeanCalculator/obj/Debug/net10.0/MeanCalculator.dll
+/home/jimmithy/Code/MeanCalculator/obj/Debug/net10.0/refint/MeanCalculator.dll
+/home/jimmithy/Code/MeanCalculator/obj/Debug/net10.0/MeanCalculator.pdb
+/home/jimmithy/Code/MeanCalculator/obj/Debug/net10.0/MeanCalculator.genruntimeconfig.cache
+/home/jimmithy/Code/MeanCalculator/obj/Debug/net10.0/ref/MeanCalculator.dll
