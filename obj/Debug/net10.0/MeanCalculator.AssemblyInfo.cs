@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MeanCalculator")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e602b455786cbdc7649d56eef4664fc534c81140")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5acecc17f2768f23068816392512d75f8d6115ea")]
 [assembly: System.Reflection.AssemblyProductAttribute("MeanCalculator")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MeanCalculator")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
